@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Carnet de contacts</string>
+    <string name="subtitle">Touchez un contact pour le modifier</string>
+    <string name="hint_name">Nom du contact</string>
+    <string name="add">Ajouter</string>
+    <string name="modify">Modifier</string>
+    <string name="empty_list">Aucun contact pour le moment</string>
+    <string name="err_empty_name">Le nom ne peut pas être vide</string>
+    <string name="err_no_selection">Aucun contact sélectionné</string>
+    <string name="err_duplicate">Ce contact existe déjà</string>
+    <string name="msg_added">Contact ajouté</string>
+    <string name="msg_modified">Contact modifié</string>
+    <string name="msg_deleted">Contact supprimé</string>
+    <string name="dialog_delete_title">Supprimer le contact ?</string>
+    <string name="dialog_delete_message">%1$s sera retiré de la liste.</string>
+    <string name="dialog_delete_yes">Supprimer</string>
+    <string name="dialog_cancel">Annuler</string>
+</resources>

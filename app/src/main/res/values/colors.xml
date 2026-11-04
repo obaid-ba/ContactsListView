@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_cream">#F7F4FF</color>
+    <color name="card">#FFFFFF</color>
+    <color name="violet">#6C4DF6</color>
+    <color name="violet_dark">#4F33D1</color>
+    <color name="violet_soft">#E9E3FF</color>
+    <color name="mint">#19B58A</color>
+    <color name="text_primary">#1D1B2E</color>
+    <color name="text_muted">#7A7694</color>
+    <color name="stroke">#E3DEF5</color>
+</resources>

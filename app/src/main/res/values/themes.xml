@@ -1,0 +1,11 @@
+<resources>
+    <style name="Theme.ContactBook" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/violet</item>
+        <item name="colorPrimaryVariant">@color/violet_dark</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="android:windowBackground">@color/bg_cream</item>
+        <item name="android:statusBarColor">@color/bg_cream</item>
+        <item name="android:navigationBarColor">@color/bg_cream</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>
