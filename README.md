@@ -2,6 +2,16 @@
 
 Redesigned version of the ContactsListView lab: same features, new **violet & cream card** look with initials avatars.
 
+## Screenshots
+
+| Contact list | Selected contact | Contact added |
+|:---:|:---:|:---:|
+| <img src="docs/screenshots/list.png" width="240" alt="Contact list with initial-letter avatars"> | <img src="docs/screenshots/selected.png" width="240" alt="Selected contact highlighted and copied into the input field"> | <img src="docs/screenshots/added.png" width="240" alt="New contact added and sorted alphabetically, with a confirmation toast"> |
+
+| Duplicate refused | Delete confirmation | Empty state |
+|:---:|:---:|:---:|
+| <img src="docs/screenshots/duplicate.png" width="240" alt="Error shown on the input field when the contact already exists"> | <img src="docs/screenshots/delete-dialog.png" width="240" alt="Confirmation dialog shown after a long press on a contact"> | <img src="docs/screenshots/empty-state.png" width="240" alt="Message shown when the list has no contacts"> |
+
 ## Features
 
 - Contacts displayed through an `ArrayAdapter` bound to a `ListView`
